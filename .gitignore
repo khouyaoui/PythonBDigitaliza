@@ -19,8 +19,9 @@ lib64/
 parts/
 sdist/
 var/
-.idea
+idea
 .idea/*
+.idea
 wheels/
 *.egg-info/
 .installed.cfg
