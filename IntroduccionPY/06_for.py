@@ -13,3 +13,5 @@ for item in nombre:
 print("Los nombre que contienen la letra a son: ")
 for i in selected:
     print(i)
+
+
