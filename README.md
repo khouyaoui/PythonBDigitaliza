@@ -1,25 +1,29 @@
-# Este repositorio contiene las tareas de la formaci髇 BDigitaliza
+# Este repositorio contiene las tareas de la formaci贸n BDigitaliza
 
 
 ----
 ## Contenido
 
->     Introducci髇 a Redes (I): CCNA RS1
+>     Introducci贸n a Redes (I): CCNA RS1
         Actividades Packet Tracer
-            PT 2.2.3.4 -> Configuraci髇 inicial de un switch
-            PT 6.4.1.3 -> Configuraci髇 inicial de un router
-    Introducci髇 a Redes (II): CCNA RS2
+            PT 2.2.3.4 -> Configuraci贸n inicial de un switch
+            PT 6.4.1.3 -> Configuraci贸n inicial de un router
+            
+>     Introducci贸n a Redes (II): CCNA RS2
         Actividades Packet Tracer
-            PT 2.2.2.4 -> Rutas est醫icas
-            PT 6.2.1.7 -> Redes VLAN.   
-    RESTAPI y JSON
+            PT 2.2.2.4 -> Rutas est谩ticas
+            PT 6.2.1.7 -> Redes VLAN.
+            
+>     RESTAPI y JSON
         Tarea 1: Crear una APP para la salida y puesta del sol
-        Crear una aplicaci髇 para acceder a la API de las horas de salida y puesta del sol de la siguiente URL:
-    https://api.sunrise-sunset.org/json?lat=48.8584&lng=2.2945 (Enlaces a un sitio externo.)Enlaces a un sitio externo.
-        En el ejemplo, se calcula para Par韘,  Francia.
-        Crear un archivo llamado: sunsetSunrise.py
-    Mostrar las horas para una latitud y longitud concretas (que no sea la del ejemplo; por ejemplo, donde viv韘). Incluir un print con texto (lo que quer醝s), con los valores de latitud y longitud, y con las horas obtenidas.
+                Crear una aplicaci贸n para acceder a la API de las horas de salida y puesta del sol de la siguiente URL:
+                https://api.sunrise-sunset.org/json?lat=48.8584&lng=2.2945 (Enlaces a un sitio externo.)Enlaces a un sitio externo.
+                En el ejemplo, se calcula para Par铆s,  Francia.
+                Crear un archivo llamado: sunsetSunrise.py
+                Mostrar las horas para una latitud y longitud concretas (que no sea la del ejemplo; por ejemplo, donde viv铆s).
+                Incluir un print con texto (lo que quer谩is), con los valores de latitud y longitud, y con las horas obtenidas.
         Tarea 2: Crear una APP para el ISS (International Space Station)
-        Crear un archivo llamado: numberPeopleSpace.py
-        Crear una app para saber el n鷐ero de personas que hay en el espacio. Pod閕s buscar la informaci髇 en la siguiente URL:
-        http://open-notify.org/Open-Notify-API/ (Enlaces a un sitio externo.)Enlaces a un sitio externo.
+                Crear un archivo llamado: numberPeopleSpace.py
+                Crear una app para saber el n煤mero de personas que hay en el espacio. 
+                Pod茅is buscar la informaci贸n en la siguiente URL:
+                http://open-notify.org/Open-Notify-API/ (Enlaces a un sitio externo.)Enlaces a un sitio externo.
