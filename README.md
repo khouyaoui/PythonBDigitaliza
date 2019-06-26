@@ -1,4 +1,4 @@
-# Este repositorio contiene las tareas de la formación BDigitaliza
+# Este repositorio contiene las tareas de la formación BDigitaliza y todos los Lab's de CCNA3 & CCNA4
 
 
 ----
