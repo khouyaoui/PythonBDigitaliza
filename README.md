@@ -1,4 +1,4 @@
-# Este repositorio contiene las tareas de la formación BDigitaliza
+# Este repositorio contiene las tareas de la formación BDigitaliza y todos los Lab's de CCNA3 & CCNA4
 
 
 ----
@@ -13,6 +13,15 @@
         Actividades Packet Tracer
             PT 2.2.2.4 -> Rutas estáticas
             PT 6.2.1.7 -> Redes VLAN.
+            
+>     Introducción a Python
+        Hello World
+        Trabajar con listas y diccionarios y variables
+        Recoger datos del terminal
+        Condicionales y tomas de decisión
+        Crear una calculadora (Obligatorio)
+        Bucle for
+
             
 >     RESTAPI y JSON
         Tarea 1: Crear una APP para la salida y puesta del sol
